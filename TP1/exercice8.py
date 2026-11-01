@@ -1,0 +1,7 @@
+x = int(input("la valeur de x est:"))
+y = int(input("la valeur de y  est:"))
+print("la somme de x et y est",x+y)
+print("la différence de x et y est",x-y)
+print("le produit de x et y est", x*y)
+print("le quotient de x par y est", x/y)
+print("le reste de la division entière de x par y est",x%y)
