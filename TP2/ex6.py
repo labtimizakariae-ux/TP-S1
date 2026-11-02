@@ -1,5 +1,5 @@
-a=int(input("tape un nembre a=",a>0))
-b=int(input("tape un nembre b=",b>0))
+a=int(input("tape un nembre a="))
+b=int(input("tape un nembre b="))
 if a%b==0:
  print("divirsible")
 else:
