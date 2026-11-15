@@ -10,7 +10,7 @@ Le projet est organisé en plusieurs dossiers correspondant aux différentes sé
   * `exercice1.py` à `exercice12.py` : Scripts de base et algorithmes fondateurs.
   * `nn.py` : Script additionnel.
 * **`TP2/`** : Approfondissement et structures de contrôle.
-  * `ex1.py` à `ex8.py` : Exercices pratiques axés sur les boucles, les conditions et les fonctions.
+  * `ex1.py` à `ex12.py`(incluant des variantes comme `ex10,2.py`) : Exercices pratiques axés sur les boucles, les conditions et les fonctions.
 * **`TP3/`** : Projets et exercices avancés.
   * `ex1.py` à `ex9.py` (incluant des variantes comme `ex6,2.py`) : Résolution de problèmes algorithmiques plus complexes.
 
