@@ -13,7 +13,8 @@ Le projet est organisé en plusieurs dossiers correspondant aux différentes sé
   * `ex1.py` à `ex12.py`(incluant des variantes comme `ex10,2.py`) : Exercices pratiques axés sur les boucles, les conditions et les fonctions.
 * **`TP3/`** : Projets et exercices avancés.
   * `ex1.py` à `ex9.py` (incluant des variantes comme `ex6,2.py`) : Résolution de problèmes algorithmiques plus complexes.
-
+* **`TP4/`** : Projets et exercices tres avancés.
+ * `ex1.py` à `ex4.py` (incluant des variantes comme `ex1,2.py` et `ex4,2.py`) : Résolution de problèmes algorithmiques plus complexes.
 ## 🛠️ Technologies Utilisées
 * **Langage** : Python 3.x
 * **Environnement** : VS Code / Windows
